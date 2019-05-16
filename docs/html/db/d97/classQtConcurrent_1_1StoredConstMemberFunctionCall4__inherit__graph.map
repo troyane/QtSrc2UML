@@ -1,0 +1,4 @@
+<map id="QtConcurrent::StoredConstMemberFunctionCall4&lt; T, Class, Param1, Arg1, Param2, Arg2, Param3, Arg3, Param4, Arg4 &gt;" name="QtConcurrent::StoredConstMemberFunctionCall4&lt; T, Class, Param1, Arg1, Param2, Arg2, Param3, Arg3, Param4, Arg4 &gt;">
+<area shape="rect" id="node2" href="$d8/d63/classQtConcurrent_1_1RunFunctionTask.html" title="{QtConcurrent::RunFunction\lTask\&lt; T \&gt;\n|+ result\l|+ run()\l}" alt="" coords="62,315,245,407"/>
+<area shape="rect" id="node3" href="$d3/d53/classQtConcurrent_1_1RunFunctionTaskBase.html" title="{QtConcurrent::RunFunction\lTaskBase\&lt; T \&gt;\n||+ start()\l+ start()\l+ run()\l+ runFunctor()\l}" alt="" coords="62,131,245,267"/>
+</map>

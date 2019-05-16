@@ -1,0 +1,3 @@
+<map id="QtConcurrent::ReduceKernel&lt; ReduceFunctor, ReduceResultType, T &gt;" name="QtConcurrent::ReduceKernel&lt; ReduceFunctor, ReduceResultType, T &gt;">
+<area shape="rect" id="node2" href="$dc/d1e/classQtConcurrent_1_1ReduceKernel.html" title="{QtConcurrent::ReduceKernel\l\&lt; ReduceFunctor, Sequence,\l typename Sequence::value_type \&gt;\n||+ ReduceKernel()\l+ runReduce()\l+ finish()\l+ shouldThrottle()\l+ shouldStartThread()\l}" alt="" coords="27,233,255,399"/>
+</map>

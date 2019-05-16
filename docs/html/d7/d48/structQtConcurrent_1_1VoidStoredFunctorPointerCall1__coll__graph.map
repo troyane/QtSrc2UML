@@ -1,0 +1,4 @@
+<map id="QtConcurrent::VoidStoredFunctorPointerCall1&lt; T, FunctionPointer, Arg1 &gt;" name="QtConcurrent::VoidStoredFunctorPointerCall1&lt; T, FunctionPointer, Arg1 &gt;">
+<area shape="rect" id="node2" href="$d8/d63/classQtConcurrent_1_1RunFunctionTask.html" title="{QtConcurrent::RunFunction\lTask\&lt; T \&gt;\n||+ run()\l}" alt="" coords="129,331,311,423"/>
+<area shape="rect" id="node3" href="$d3/d53/classQtConcurrent_1_1RunFunctionTaskBase.html" title="{QtConcurrent::RunFunction\lTaskBase\&lt; T \&gt;\n||+ start()\l+ start()\l+ run()\l+ runFunctor()\l}" alt="" coords="62,132,245,268"/>
+</map>

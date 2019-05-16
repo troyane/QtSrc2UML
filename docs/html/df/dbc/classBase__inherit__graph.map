@@ -1,0 +1,4 @@
+<map id="Base" name="Base">
+<area shape="rect" id="node2" href="$d3/dca/structQtConcurrent_1_1SequenceHolder1.html" title="{QtConcurrent::SequenceHolder1\l\&lt; Sequence, Base, Functor \&gt;\n|+ sequence\l|+ SequenceHolder1()\l+ finish()\l}" alt="" coords="5,138,216,245"/>
+<area shape="rect" id="node3" href="$d6/d5d/structQtConcurrent_1_1SequenceHolder2.html" title="{QtConcurrent::SequenceHolder2\l\&lt; Sequence, Base, Functor1,\l Functor2 \&gt;\n|+ sequence\l|+ SequenceHolder2()\l+ finish()\l}" alt="" coords="240,131,451,252"/>
+</map>

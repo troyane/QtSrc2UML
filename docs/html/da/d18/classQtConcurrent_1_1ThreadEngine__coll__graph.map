@@ -1,0 +1,4 @@
+<map id="QtConcurrent::ThreadEngine&lt; T &gt;" name="QtConcurrent::ThreadEngine&lt; T &gt;">
+<area shape="rect" id="node2" href="$dc/d44/classQtConcurrent_1_1ThreadEngineBase.html" title="{QtConcurrent::ThreadEngineBase\n||+ ThreadEngineBase()\l+ ~ThreadEngineBase()\l+ startSingleThreaded()\l+ startBlocking()\l+ startThread()\l+ isCanceled()\l+ waitForResume()\l+ isProgressReportingEnabled()\l+ setProgressValue()\l+ setProgressRange()\l+ acquireBarrierSemaphore()\l# start()\l# finish()\l# threadFunction()\l# shouldStartThread()\l# shouldThrottleThread()\l}" alt="" coords="235,233,454,531"/>
+<area shape="rect" id="node5" href="$d1/da2/classQtConcurrent_1_1ThreadEngineBarrier.html" title="{QtConcurrent::ThreadEngine\lBarrier\n||+ ThreadEngineBarrier()\l+ acquire()\l+ release()\l+ wait()\l+ currentCount()\l+ releaseUnlessLast()\l}" alt="" coords="251,5,439,171"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QtConcurrent::IterateKernel&lt; Iterator, T &gt;" name="QtConcurrent::IterateKernel&lt; Iterator, T &gt;">
+<area shape="rect" id="node2" href="$d4/d1e/classQtConcurrent_1_1ThreadEngine.html" title="{QtConcurrent::ThreadEngine\&lt; T \&gt;\n||+ result()\l+ futureInterfaceTyped()\l+ startSingleThreaded()\l+ startBlocking()\l+ startAsynchronously()\l+ asynchronousFinish()\l+ reportResult()\l+ reportResults()\l}" alt="" coords="235,580,455,760"/>
+<area shape="rect" id="node3" href="$dc/d44/classQtConcurrent_1_1ThreadEngineBase.html" title="{QtConcurrent::ThreadEngineBase\n||+ ThreadEngineBase()\l+ ~ThreadEngineBase()\l+ startSingleThreaded()\l+ startBlocking()\l+ startThread()\l+ isCanceled()\l+ waitForResume()\l+ isProgressReportingEnabled()\l+ setProgressValue()\l+ setProgressRange()\l+ acquireBarrierSemaphore()\l# start()\l# finish()\l# threadFunction()\l# shouldStartThread()\l# shouldThrottleThread()\l}" alt="" coords="235,233,454,531"/>
+<area shape="rect" id="node6" href="$d1/da2/classQtConcurrent_1_1ThreadEngineBarrier.html" title="{QtConcurrent::ThreadEngine\lBarrier\n||+ ThreadEngineBarrier()\l+ acquire()\l+ release()\l+ wait()\l+ currentCount()\l+ releaseUnlessLast()\l}" alt="" coords="251,5,439,171"/>
+<area shape="rect" id="node9" href="$d1/da0/classint.html" title="{int\n||}" alt="" coords="479,631,517,709"/>
+<area shape="rect" id="node10" href="$d3/dbb/classQAtomicInt.html" title="{QAtomicInt\n||}" alt="" coords="578,631,666,709"/>
+<area shape="rect" id="node11" href="$d9/db9/classbool.html" title="{bool\n||}" alt="" coords="725,631,772,709"/>
+</map>
